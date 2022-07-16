@@ -1,0 +1,172 @@
+body{
+    margin: 0%;
+    background-color:#D6EFED;
+}
+
+h1{
+    font-family: montserrat;
+    font-weight: bold;
+    size: 2rem;
+    line-height: 1.2;
+    color:white;
+    padding-bottom: 2%;
+}
+h2{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+h3{
+    width: 100%;
+    size: 1rem;
+}
+h4{
+    text-align: center;
+    padding-top: 2%;
+    font-size: xx-large;
+    color: #0078AA;
+}
+hr{
+    width: 10%;
+    border-top:  5px dotted black;
+margin: 10px auto;
+    
+}
+#intro{
+    width: ;
+    height: auto;
+    text-align: center;
+    background-image: url('images/img6.jpg');
+    background-size: 100% 100% ;
+}
+.container-fluid{
+    padding: 3% 20%;
+}
+.navbar{
+    margin-top: 0%;
+    padding: 0%;
+}
+.navbar-brand{
+    font-family: ubuntu;
+    font-size:xx-large;
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding: 0 10px;
+} 
+.nav-link{
+    font-size:  1.3rem;
+
+}  
+.profile-image{
+    width: 40%;
+    height: 70%;
+    transform: rotate(8deg);
+
+} 
+.skills{
+    padding: 2px 0;
+}
+.skill-row{
+    margin: 50px 0;
+    padding: 0 24% 0 14;
+    text-align: left;
+}
+.web{
+    float: left;
+    padding: 2%;
+    width: 150px;
+    border-radius: 100%;
+    
+}
+.computer{
+    float: right;
+    padding: 2%;
+    border-radius: 100%;
+    width: 150px;
+    }
+
+
+    
+    
+    .skill-head1{
+        text-decoration: underline;
+        font-size: xx-large;
+        font-weight: bold;
+        padding-left: 3%;
+        padding-top: 2%;
+    
+    }
+    .skill1{
+        padding-left: 11%;
+    }
+    .skill2{
+        padding-right: 5%;
+    }
+    .skill-head{
+        text-decoration: underline;
+        padding-left: 30%;
+        font-size: xx-large;
+        font-weight: bold;
+        
+    }
+    .skill-para1{
+        font-size: x-large;
+        font-weight: bold;
+    }
+    .skill-para{
+        padding-left: 30%;
+        font-size: x-large;
+        font-weight: bold;
+    }
+    .lang{
+        color: blueviolet;
+        font-size: x-large;
+    
+    }
+    .lang:hover{
+        color:black;
+    }
+    .lastdiv{
+        text-align: center;
+        margin-top: 4%;
+        margin-bottom: 3%;
+    }
+    .contact-para{
+        font-size: larger;
+        text-align: center;
+        color: #231955;
+        padding: 0 40%;
+    }
+    .btn{
+        margin-bottom: 5%;
+    }
+    .bottom-container{
+        text-align: center;
+        background-color: #A8A4CE;
+        padding-top: 5%;
+        padding-bottom: 3%;
+    }
+    a{
+margin: 2%;
+
+    }
+    p{
+        padding-top: 1%;
+
+    }
+    #projects{
+        padding-top: 3%;
+        padding-bottom: 5%;
+    }
+    .project-head{
+        text-align: center;
+        font-size: 3rem;
+        font-weight: bold;
+        padding-bottom: 5%;
+    }
+    .card-body{
+        text-align: center;
+        background-color: #D6EFED;
+    }
